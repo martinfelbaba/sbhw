@@ -1,2 +1,2 @@
 # sbhw
-Spring.boot 2 rest hello world.
+Spring.Boot2 rest hello world.
