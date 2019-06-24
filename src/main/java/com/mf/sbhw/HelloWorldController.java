@@ -9,6 +9,6 @@ public class HelloWorldController {
 
     @GetMapping("/hello")
     public String helloWorld(@RequestParam final String name) {
-        return "Hello, " + name + "\n";
+        return "Hello, " + name + ".\n";
     }
 }
